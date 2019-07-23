@@ -18,6 +18,7 @@ html, body{
 }
 
 #camera--trigger{
+    opacity: 0;
     width: 200px;
     background-color: black;
     color: white;
